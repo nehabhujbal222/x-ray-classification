@@ -60,6 +60,5 @@ def upload():
         return preds
     return None
 
-
 if __name__ == '__main__':
     app.run(debug=True)
